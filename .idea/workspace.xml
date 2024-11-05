@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44ce08f-5211-44e0-99d7-c7873c7bf33e" name="Changes" comment="Plots and maps added">
-      <change afterPath="$PROJECT_DIR$/data/final.xlsx" afterDir="false" />
+    <list default="true" id="b44ce08f-5211-44e0-99d7-c7873c7bf33e" name="Changes" comment="Report changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/merged_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/merged_data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,9 @@
       <updated>1728907544395</updated>
       <workItem from="1728907546086" duration="14278000" />
       <workItem from="1729000709983" duration="3336000" />
-      <workItem from="1729436891743" duration="10443000" />
+      <workItem from="1729436891743" duration="10677000" />
+      <workItem from="1729710237498" duration="185000" />
+      <workItem from="1729874790014" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -118,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728943780995</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Report changes">
+      <option name="closed" value="true" />
+      <created>1729448422546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729448422546</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +135,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="First operations.&#10;Population added" />
     <MESSAGE value="Plots and maps added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plots and maps added" />
+    <MESSAGE value="Report changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Report changes" />
   </component>
 </project>
