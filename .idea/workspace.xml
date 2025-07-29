@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44ce08f-5211-44e0-99d7-c7873c7bf33e" name="Changes" comment="Report changes">
+    <list default="true" id="b44ce08f-5211-44e0-99d7-c7873c7bf33e" name="Changes" comment="Refactoring">
+      <change afterPath="$PROJECT_DIR$/Lab2_M.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Lab2/us_contagious_diseases.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Lab3/amazon.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/julek/PycharmProjects/DSLab1/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/julek/PycharmProjects/DSLab1/data/Lab3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,9 +53,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/Lab3" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/Lab2" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/Lab1" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
@@ -92,6 +110,15 @@
       <workItem from="1729436891743" duration="10677000" />
       <workItem from="1729710237498" duration="185000" />
       <workItem from="1729874790014" duration="113000" />
+      <workItem from="1730820257333" duration="8327000" />
+      <workItem from="1732730983709" duration="32000" />
+      <workItem from="1733162426518" duration="20510000" />
+      <workItem from="1733303790110" duration="864000" />
+      <workItem from="1736458150332" duration="1112000" />
+      <workItem from="1737665009964" duration="959000" />
+      <workItem from="1737831753025" duration="601000" />
+      <workItem from="1738084667602" duration="17000" />
+      <workItem from="1738235922605" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -125,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729448422546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1730820481167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730820481167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +171,7 @@
     <MESSAGE value="First operations.&#10;Population added" />
     <MESSAGE value="Plots and maps added" />
     <MESSAGE value="Report changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Report changes" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
 </project>
